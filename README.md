@@ -1,29 +1,32 @@
 # LineTracer
 2023_fall_ Micro-Processor Applications
 
+![ti-rslk](./img/ti-rslk.jpg)
+### TI-RSLK
 
 
 
-- There are a total of 8 goals to complete.
-    - Evaluation for each goal.
-- 1 lap
 
 
 ## Challenge – Complete a track
 
 - Track
 
+![track](./img/track.PNG)
 
-
+- There are a total of 8 goals to complete.
+    - Evaluation for each goal.
+- 1 lap
 
 **About Starting Line**
 
-
+![startline](./img/startline.PNG)
 It's okay to start in the red box position for testing.
 
 
 ## First goal – Stop And Start
 
+![goal1](./img/goal1.PNG)
 - Pause for a period of time (
     seconds) before starting.
 - When that section is reached, the
@@ -39,6 +42,7 @@ It's okay to start in the red box position for testing.
 
 ## Second Goal - Repeat
 
+![goal2](./img/goal2.PNG)
 - After two or three repetitions of going back
     and forth without leaving the section, it
     starts.
@@ -59,6 +63,7 @@ It's okay to start in the red box position for testing.
 
 ## Third Goal - Deceleration
 
+![goal3](./img/goal3.PNG)
 - Upon entering this section,
     the robot must slowly
     decrease its speed to travel
@@ -70,6 +75,7 @@ It's okay to start in the red box position for testing.
 
 ## Fourth Goal - Acceleration
 
+![goal4](./img/goal4.PNG)
 - Upon entering this section,
     the robot must gradually
     accelerate its speed to travel
@@ -83,6 +89,7 @@ It's okay to start in the red box position for testing.
 
 ## Fifth Goal – Rotate and forward
 
+![goal5](./img/goal5.PNG)
 - Upon entering this section,
     the robot must turn left,
     advance slightly, turn right,
@@ -96,6 +103,7 @@ It's okay to start in the red box position for testing.
 
 ## Sixth Goal - Rounds
 
+![goal6](./img/goal6.PNG)
 - When entering this section,
     the robot must turn around
     and move to the beginning
@@ -111,6 +119,7 @@ It's okay to start in the red box position for testing.
 
 ## Seventh goal - Stop or slow down
 
+![goal7](./img/goal7.PNG)
 - In this section, the robot
     must stop.
 - Or it must pass through this
@@ -122,6 +131,7 @@ It's okay to start in the red box position for testing.
 
 ## Eighth Goal - Finish
 
+![goal8](./img/goal8.PNG)
 - Determines if you have
     finished.
 - In this case, we check to see
@@ -130,33 +140,20 @@ It's okay to start in the red box position for testing.
     whether it performed the
     behavior or not.
 
-
-## Example video
-
-- https://drive.google.com/file/d/1VxynjK69NH20QOotRSSp6dh
-    Yh-K5kRvt/view?usp=sharing
+<br/>
+<br/>
 
 
-**Evaluation** Points per section Score
-1 1
-2 1
-3 2
-4 2
-5 3
-6 3
-7 2
-Finish 1
-Total : 15
 
-Implementing only a portion of the
+**Evaluation**   
+Points per section Score  
+
+![evaluation](./img/evaluation.PNG)  
+
+-Implementing only a portion of the
 track does not mean that only that
 portion will be tested.
 
-The robot must travel on the track from
+-The robot must travel on the track from
 the starting point and reach the
 destination.
-
-
-
-
-
